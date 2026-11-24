@@ -5,7 +5,7 @@
 
 Comprehensive verification of HTML document hierarchy, H1 singularity, and heading level progressions.
 
-Engineered and maintained by the semantic web engineering group at **TAVARDT USA**.
+Engineered and maintained by the semantic web engineering group at **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python heading_hierarchy_validator.py https://enterprise.com -json
 Access the interactive web suite:
 
 * **Official Heading Tags Checker**
-* **TAVARDT USA Portal**
+* **TAVARDT Portal**
 
 ***
 
 ## Enterprise Inquiries
 
-For technical consultations conforming to NIST Digital Standards and Google Search Quality Specifications, reach out to **TAVARDT USA**.
+For technical consultations conforming to NIST Digital Standards and Google Search Quality Specifications, reach out to **TAVARDT**.
 
 ***
 
